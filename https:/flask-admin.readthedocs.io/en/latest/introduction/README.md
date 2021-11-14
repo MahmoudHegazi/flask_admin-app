@@ -14,5 +14,10 @@ https://flask-admin.readthedocs.io/en/latest/advanced/
 Flask_helpful:
 https://awesomeopensource.com/project/mjhea0/awesome-flask
 
+
+Flask_admin_callback
+https://stackoverflow.com/questions/34798118/could-someone-please-show-me-where-i-can-find-flask-admin-callbacks
+
+
 ![image](https://user-images.githubusercontent.com/55125302/141695468-b7c154ff-84a2-4660-9e2d-f42fc63ed55a.png)
 
