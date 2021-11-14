@@ -6,3 +6,6 @@ Customize admin views and add new functionalities also Connect modelViews with w
 -- two-step verification (adding)
 
 ![image](https://user-images.githubusercontent.com/55125302/141695468-b7c154ff-84a2-4660-9e2d-f42fc63ed55a.png)
+
+
+![image](https://user-images.githubusercontent.com/55125302/141704079-e7da05f1-7bc5-4dd2-aacb-52ad4448c3e3.png)
