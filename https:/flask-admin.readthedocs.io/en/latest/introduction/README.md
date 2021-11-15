@@ -26,5 +26,12 @@ https://stackoverflow.com/questions/34798118/could-someone-please-show-me-where-
 # flask-babel
 
 Some notes sometimes it has support for all language with system values, and sometime you need to translate things Manuel
+so becuase it not good to add translate dynamic use
+steps 
+1. create babel.cfg
+2. create the config.py and add the supported languages
+3. in the translation folder you will find the languages 
+4. create the message.po file and then .mo and complie with command to create the translations
+5. update the words for every new added, not it will read gettext, (if using lazy need speical command)
 
 https://www.ibm.com/support/pages/globalization-application-specific-content
