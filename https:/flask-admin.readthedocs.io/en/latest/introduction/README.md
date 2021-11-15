@@ -21,3 +21,10 @@ https://stackoverflow.com/questions/34798118/could-someone-please-show-me-where-
 
 ![image](https://user-images.githubusercontent.com/55125302/141695468-b7c154ff-84a2-4660-9e2d-f42fc63ed55a.png)
 
+
+
+# flask-babel
+
+Some notes sometimes it has support for all language with system values, and sometime you need to translate things Manuel
+
+https://www.ibm.com/support/pages/globalization-application-specific-content
